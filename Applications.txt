@@ -977,7 +977,6 @@
   {
     name="MineOS/Applications/Shop",
     url="SaratovProject/MineOSmodified/master/Applications/Shop/Shop.lua",
-    about="SaratovProject/MineOSmodified/master/Applications/Shop/About/",
     type="Application",
     icon="SaratovProject/MineOSmodified/master/Applications/Shop/Icon.pic",
     version=1.0,
